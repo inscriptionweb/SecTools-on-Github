@@ -19,7 +19,9 @@ cheat nmap
 ```
 
 ## Make your own cheat
+
 you can edit ~/.cheat/toolsname or just type 'cheat -e toolsname'
+
 a template like this
 path: ~/.cheat/nmap
 ```
